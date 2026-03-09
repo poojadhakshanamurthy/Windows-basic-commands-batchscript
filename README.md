@@ -25,6 +25,7 @@ Execute the necessary commands/batch file for the desired output.
 
 Create a directory named "my-folder"
 mkdir my-folder
+
 <img width="387" height="53" alt="image" src="https://github.com/user-attachments/assets/3f363a5a-6c45-48e6-af95-a1e961065744" />
 
 
@@ -32,20 +33,25 @@ mkdir my-folder
 
 Remove the directory "my-folder"
 rmdir my-folder
+
 <img width="408" height="50" alt="image" src="https://github.com/user-attachments/assets/7e2b4e27-cb9c-41ad-be39-a93b5828d68c" />
 
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
+
 type nul > Rose.txt
+
 <img width="439" height="55" alt="image" src="https://github.com/user-attachments/assets/4f73222a-9ee6-4d8f-8ce3-f7ccb0ba3993" />
 
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
+
 echo Hello World > hello.txt
+
 <img width="558" height="52" alt="image" src="https://github.com/user-attachments/assets/7457303f-48e4-41a6-b689-8f1f5fe61431" />
 
 ## COMMAND AND OUTPUT
@@ -57,26 +63,34 @@ copy hello.txt hello1.txt
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
+
 del hello1.txt
+
 <img width="390" height="49" alt="image" src="https://github.com/user-attachments/assets/e099858f-d529-4ea1-85f5-37dae5cd47ea" />
 
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
+
 dir hello1.txt
+
 <img width="438" height="182" alt="image" src="https://github.com/user-attachments/assets/65f3898b-c37d-4524-a7f0-4f080d80aab5" />
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+
 assoc
+
 <img width="625" height="880" alt="image" src="https://github.com/user-attachments/assets/e8144048-dcbe-4351-93d2-70164b886d01" />
 
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
+
 fc hello.txt Rose.txt
+
 <img width="536" height="159" alt="image" src="https://github.com/user-attachments/assets/a0372694-ef72-4f65-95d2-8abaecbf6ed8" />
 
 ## COMMAND AND OUTPUT
