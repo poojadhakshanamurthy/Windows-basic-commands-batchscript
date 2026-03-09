@@ -22,7 +22,7 @@ Execute the necessary commands/batch file for the desired output.
 
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
-```
+
 Create a directory named "my-folder"
 mkdir my-folder
 <img width="387" height="53" alt="image" src="https://github.com/user-attachments/assets/3f363a5a-6c45-48e6-af95-a1e961065744" />
@@ -224,7 +224,6 @@ exit
 ## OUTPUT3
 <img width="431" height="197" alt="image" src="https://github.com/user-attachments/assets/5f6b0ad6-e521-4b06-b13f-2dd1385609a0" />
 
-```
 
 # RESULT:
 The commands/batch files are executed successfully.
